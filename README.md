@@ -25,7 +25,7 @@ All members, rewards and data are fictional. Everything stays on your device.
 
 ## Tech stack
 
-Expo SDK 58, Expo Router, TypeScript, React Native Reanimated, Zustand (persisted with AsyncStorage), react-native-svg and react-native-qrcode-svg.
+Expo SDK 57 (the version supported by Expo Go), Expo Router, TypeScript, React Native Reanimated, Zustand (persisted with AsyncStorage), react-native-svg and react-native-qrcode-svg.
 
 ## Getting started
 
